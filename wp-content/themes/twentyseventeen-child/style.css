@@ -1,0 +1,49 @@
+/*
+ Theme Name:   Twenty Seventeen Child
+ Theme URI:    http://amcweding.dev/twenty-fifteen-child/
+ Description:  Twenty Seventeen Child Theme
+ Author:       Margaret Godowns
+ Author URI:   http://margaretgodowns.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+.wrap-center {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.wrap-half-half {
+	display: flex;
+	justify-content: space-around;
+}
+
+.wrap-half-half .flex-item {
+	width: 45%;
+}
+
+.panel-content .wrap {
+	padding: 4em 0;
+}
+
+.panel-content h1 {
+	text-align: center;
+	margin: 2em 0;
+}
+
+.panel-content .entry-header {
+	margin-bottom: 0 !important;
+}
+
+.entry-title {
+	margin: 1em 0 !important;
+}
+
+.entry-title-center {
+	text-align: center;
+}
